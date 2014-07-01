@@ -1,7 +1,8 @@
 check_showcase
 ==============
 
-This repository is meant to represent the coding style of the waysome project.
+This repository is meant to represent the testing style of the waysome project.
+It is still in the definition phase and thus all input is important.
 
 How to run
 ----------
@@ -13,4 +14,4 @@ How to run
 Notes
 =====
 
-There is one failing test
+There is one failing test.
